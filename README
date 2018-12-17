@@ -1,0 +1,8 @@
+一个 针对 非小号 https://www.feixiaohao.com 的动态爬虫。
+基于python3.6+selenium+pandas。
+目标网站的元素加载比较特别，requests,requests-html等不适用。
+
+后续会优化，优先帮助老洪解决问题。
+
+author: lifangyi
+email: leefyi@126.com
